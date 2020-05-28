@@ -1,0 +1,5 @@
+category_id,weight,price,vendor_product_id,unit,desc,desc_article,barcode,sold_times,image,multiple_images,is_featured,is_deal,deal_title,deal_percentage,max_purchase_limit,availability,brands,brand name 1,brand name 2
+67,0,62,447685,1 Kg,,,vege7369826,28792,https://pictures.grocerapps.com/original/grocerapp-onion--5e6d35a65de02.jpeg,,0,1,22% OFF,22,10,in stock,[],,
+67,0,83,447675,1 kg,,,vege8383762,26441,https://pictures.grocerapps.com/original/grocerapp-potato--5e6d035448de7.png,,0,1,10% OFF,10,10,in stock,[],,
+67,0,22,447676,500 gm,,,vege7373823,21967,https://pictures.grocerapps.com/original/grocerapp-tomato--5e6d035a1682d.png,,1,0,20% OFF,20,5,in stock,[],,
+67,0,20,447687,250 gm,,,vege8377232,11410,https://pictures.grocerapps.com/original/grocerapp-green-chilli--5e6d039bce61a.png,,1,0,10% OFF,10,,in stock,[],,
